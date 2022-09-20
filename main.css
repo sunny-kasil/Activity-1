@@ -1,0 +1,25 @@
+
+.container {
+    border: 1px solid black;
+}
+
+
+
+.header {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.form-container {
+    float: right;    
+    margin-top:20px;
+    margin-right: 50px;
+}
+
+.form-container form > input , label , button  {
+    display: block !important;
+    margin-top:5px;
+    
+}
